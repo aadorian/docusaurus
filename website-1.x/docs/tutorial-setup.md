@@ -26,7 +26,7 @@ Alternatively, you can download an installer from the [Node.js homepage](https:/
 
 ## Check your Node.js installation
 
-Check that you have the minimum required version installed by running the following command:
+Check that you  have the minimum required version installed by running the following command:
 
 ```sh
 node -v
